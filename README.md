@@ -1,4 +1,4 @@
-<h1>Hi, I'm Quentin, an <a href="www.linkedin.com/in/quentin-kunkle-342342185">IT Professional</a>☺</h1>
+<h1>Hi, I'm Quentin, an <a href="[www.linkedin.com/in/quentin-kunkle-342342185](http://www.linkedin.com/in/quentin-kunkle-342342185)">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
