@@ -6,6 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/QuentinKunkle/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/QuentinKunkle/configure-ad)
+ 
+- <b>Chat GPT</b>
+  - [A Guide to ChatGPT](https://github.com/QuentinKunkle/intro-to-chatgpt)
 
 <h2>🤳Connect with me:</h2>
 
